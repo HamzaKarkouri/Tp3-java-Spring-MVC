@@ -15,3 +15,9 @@ Créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data J
  - Validation des formulaires
 
  - ## Capture d'écran
+![Image1](https://github.com/HamzaKarkouri/Tp3-java-Spring-MVC/assets/90202566/dffcb790-c5a5-480c-93cd-bc07a4cf1131)
+![Image2](https://github.com/HamzaKarkouri/Tp3-java-Spring-MVC/assets/90202566/2f48f99b-edd3-429a-b577-060db1f7645c)
+![Image3](https://github.com/HamzaKarkouri/Tp3-java-Spring-MVC/assets/90202566/60c23f96-542a-4e17-9045-d04e518af4de)
+![Image4](https://github.com/HamzaKarkouri/Tp3-java-Spring-MVC/assets/90202566/ba4c5fd9-9145-4239-9202-bb2b39e17869)
+
+
